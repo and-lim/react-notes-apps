@@ -1,3 +1,10 @@
+# Screenshots
+
+
+![localhost_3000_ (1)](https://github.com/and-lim/react-notes-apps/assets/100760781/a9da364f-ba19-4e59-9ecb-9c9fa87d59b4)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
